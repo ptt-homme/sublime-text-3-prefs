@@ -4,7 +4,14 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"LiveStyle",
 		"Material Spacegray",
-		"Package Control"
+		"Package Control",
+		"SideBarEnhancements"
 	]
 }
