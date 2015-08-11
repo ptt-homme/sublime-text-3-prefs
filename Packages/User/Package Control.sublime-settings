@@ -4,10 +4,12 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
+		"FindKeyConflicts",
 		"GitGutter",
 		"LiveStyle",
 		"Material Spacegray",
