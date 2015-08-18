@@ -1,8 +1,8 @@
 {
-	"color_scheme": "Packages/Materialize/schemes/Material Spacegray Darker.tmTheme",
+	"color_scheme": "Packages/Materialize/schemes/Material Spacegray.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Material Spacegray.sublime-theme"
 }
